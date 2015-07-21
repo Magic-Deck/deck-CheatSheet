@@ -1,0 +1,19 @@
+{
+	"guid": "ef9b8900-2ffc-11e5-9e6a-353b1be2f657",
+	"title": "Ponyshow Cheat Sheet",
+	"filename": "ponyshow-cheatsheet",
+	"version": "1.0.0",
+	"description": "Learn the Ponyshow syntax using this cheat sheet.",
+	"screenshots": [],
+	"main": "deck.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ponyshow/CheatSheet.git"
+	},
+	"author": "TZ Martin <martin@semanticpress.com>",
+	"license": "Apache2",
+	"theme": "asdf",
+	"locale": "en",
+	"path": "deck-cheatsheet",
+	"repoUrl": "https://github.com/Ponyshow/CheatSheet.git"
+}
