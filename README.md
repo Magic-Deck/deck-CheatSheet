@@ -2,7 +2,7 @@
 
 Learn the Ponyshow syntax using this cheat sheet deck.
 
-## [View Online](http://ponyshow.github.com/cheatsheet)
+### [View Online](http://ponyshow.github.com/cheatsheet)
 
 ## Install and run
 
