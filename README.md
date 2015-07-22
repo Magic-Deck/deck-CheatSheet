@@ -2,11 +2,14 @@
 
 Learn the Ponyshow syntax using this cheat sheet deck.
 
+View the crib online [http://ponyshow.github.com/cheatsheet](http://ponyshow.github.com/cheatsheet) or install and run.
+
 ## Install and run
 
-Download this project and run
+Download this project, install `ponyshow` command and run...
 
 ```
+npm install ponyshow -g
 pony run
 ```
 
