@@ -2,11 +2,11 @@
 
 Learn the Ponyshow syntax using this cheat sheet deck.
 
-View the crib online [http://ponyshow.github.com/cheatsheet](http://ponyshow.github.com/cheatsheet) or install and run.
+## [View Online](http://ponyshow.github.com/cheatsheet)
 
 ## Install and run
 
-Download this project, install `ponyshow` command and run...
+Download this deck, install `ponyshow` command and run...
 
 ```
 npm install ponyshow -g
